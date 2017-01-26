@@ -8,7 +8,7 @@ Admin console - [https://kzbank.herokuapp.com/admin](https://kzbank.herokuapp.co
 # Features
 
 * Modata uses RoR Models to generate source code for iOS - [https://kzbank.herokuapp.com/modata/xcode](https://kzbank.herokuapp.com/modata/xcode)
-* Modata uses RoR Models to generate source code for Android - [https://kzbank.herokuapp.com/modata/xcode](https://kzbank.herokuapp.com/modata/android)
+* Modata uses RoR Models to generate source code for Android - [https://kzbank.herokuapp.com/modata/android](https://kzbank.herokuapp.com/modata/android)
 * Modata provides web-services to fetch the data - [https://kzbank.herokuapp.com/modata/data/Commodity](https://kzbank.herokuapp.com/modata/data/Commodity)
 * Delta synchronization is available out-of-the-box - [https://kzbank.herokuapp.com/modata/data/Commodity?timestamp=1485433411973](https://kzbank.herokuapp.com/modata/data/Commodity?timestamp=1485433411973)
 * On the client side there is a SyncEngine class, which takes care of data synchronization and storage  
