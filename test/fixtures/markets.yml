@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company_id: 
+  date: 2015-04-20 20:24:55
+  current_value: 
+  open_value: 
+  min_value: 
+  max_value: 
+
+two:
+  company_id: 
+  date: 2015-04-20 20:24:55
+  current_value: 
+  open_value: 
+  min_value: 
+  max_value: 

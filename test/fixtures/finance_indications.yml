@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  finance_id: 
+  date: 2015-04-24 13:12:55
+  value: 1.5
+
+two:
+  finance_id: 
+  date: 2015-04-24 13:12:55
+  value: 1.5

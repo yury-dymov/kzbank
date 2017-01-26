@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  exchange_id: 
+  current_value: 1.5
+  opening_value: 1.5
+  min_value: 1.5
+  max_float: 
+  date: 2015-04-20 20:41:25
+
+two:
+  exchange_id: 
+  current_value: 1.5
+  opening_value: 1.5
+  min_value: 1.5
+  max_float: 
+  date: 2015-04-20 20:41:25
